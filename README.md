@@ -62,6 +62,6 @@ Signals sent to the EEG recording include:
 The output signals are also stored in text files in the program directory
 	
 ![stars1](stars1.png)
-![stimulus1](stimulus1.png
+![stimulus1](stimulus1.png)
 
 
